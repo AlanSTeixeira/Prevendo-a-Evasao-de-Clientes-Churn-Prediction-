@@ -1,2 +1,2 @@
 # Prevendo-a-Evasao-de-Clientes-Churn-Prediction-
-Neste estudo, utilizaremos técnicas de Ciência de Dados para prever quais clientes têm maior probabilidade de cancelar seus serviços ou produtos
+A evasão de clientes representa uma das maiores ameaças à saúde financeira de qualquer empresa. Neste estudo, utilizaremos técnicas de Ciência de Dados para prever quais clientes têm maior probabilidade de cancelar seus serviços ou produtos. Através da análise de dados históricos e comportamentais, construiremos um modelo preditivo capaz de identificar os sinais de alerta e auxiliar na implementação de estratégias de retenção proativas.
